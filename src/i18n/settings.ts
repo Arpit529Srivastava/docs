@@ -26,3 +26,4 @@ export const localeNames: Record<Locale, string> = {
   TC: "繁體中文",
   pt: "Português",
 };
+//some changes
